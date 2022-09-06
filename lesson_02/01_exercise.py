@@ -1,3 +1,3 @@
-text = "3rd exercise"
+text = "1st exercise"
 print(text)
 print(type(text))
